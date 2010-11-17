@@ -1,0 +1,6 @@
+ofxCvPosit is a wrapper for the POSIT method of OpenCv for OpenFrameworks. This method is for pose estimation from 4 non coplanar point.
+
+Hit c for entering in calibration process
+hit a and z for modify field of view
+
+Here is one video I made with this process : http://www.youtube.com/watch?v=S4Kg6MDl-no
